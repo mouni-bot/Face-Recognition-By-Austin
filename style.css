@@ -1,0 +1,18 @@
+body{
+    color: rgb(0, 183, 255);
+    background: rgb(255, 217, 0);
+}
+.heaading
+{
+width: 80%;
+font-size: 22px;
+}
+#camera,#result
+{
+border: solid black;
+width: 350px;
+height: 300px;
+}
+.name_of_objects, #result_object_name, #result_object_accuracy{
+    color: chartreuse;
+}
